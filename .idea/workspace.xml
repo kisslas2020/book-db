@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7305cfc0-d125-4011-9478-129459f9c179" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../fibonacci-variants/description/background.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../fibonacci-variants/description/background.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../fibonacci-variants/description/hints.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../fibonacci-variants/description/hints.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../fibonacci-variants/description/learn.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../fibonacci-variants/description/learn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../fibonacci-variants/description/story.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../fibonacci-variants/description/story.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../fibonacci-variants/python/reference/fibonacci_variants.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../fibonacci-variants/python/reference/fibonacci_variants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../fibonacci-variants/python/start/fibonacci_variants.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../fibonacci-variants/python/start/fibonacci_variants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../fibonacci-variants/tasks.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../fibonacci-variants/tasks.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookdb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/bookdb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/bookdb/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/bookdb/model/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/bookdb/model/BookDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codecool/bookdb/view/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codecool/bookdb/view/UserInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ch2xlUN7F35nCOj2kjqjTRR22z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,12 +39,38 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codecool.bookdb.Main" />
+      <module name="bookdb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.bookdb.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -50,5 +88,22 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../.." />
+    </ignored-roots>
   </component>
 </project>
